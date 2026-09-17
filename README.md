@@ -21,5 +21,5 @@ The program correctly classified all 10 provided test trials (5 flexing, 5 exten
 Place the CSV trial files in a `Data/` folder, then run `Mainfunction.m` in MATLAB.
 
 ## Documentation
-Full write-up with test cases and algorithm design:
+Full write up with test cases and algorithm design:
 [EMG-Based_Identification_of_Upper_Limb_Movement_Report.pdf](https://github.com/user-attachments/files/32325966/EMG-Based_Identification_of_Upper_Limb_Movement_Report.pdf)
